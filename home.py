@@ -21,6 +21,6 @@ with st.expander("포코 세팅법"):
 with st.expander("주주 세팅법"):
     st.write('''
         주주(JuJu) 하이퍼차지 X / 역할 : 투척수
-        ***포코는 궁극기 적중 시 상대방에게 데미지를 가하는 효과가 있는 첫번째 스타파워와 콤보의 메인이 되는 첫번째 가젯***, __그리고 팀원의 생존횟수 늘리기 위한 가젯 충전기어를 필수로 장착해야하고 나머지 자리는 피해 기어를 사용하는 것이 좋습니다.__ 그리고 풀이 많은 맵에서도 고정적으로 기어를 장착는게 좋습니다.
+        ***ㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹ***, __그리고 팀원의 생존횟수 늘리기 위한 가젯 충전기어를 필수로 장착해야하고 나머지 자리는 피해 기어를 사용하는 것이 좋습니다.__ 그리고 풀이 많은 맵에서도 고정적으로 기어를 장착는게 좋습니다.
     ''')
-    st.image("https://i.namu.wiki/i/qs7rJd6t6GpElz1qQD5hTAuWGEszQWAojlcuXApE3F9XjnHE-L5CLCmjO6xnUTiuS0PQYAkKNzq0j8IILQtJHw.webp")
+    st.image("https://i.namu.wiki/i/LaugUB7jGvRsTpwkN8k0L_rsJrng71EJL8FtLpHNesuNawfkPhrX2R3WbBJy9UMxpkh4VyEQubaT2moP--Y5tA.webp")
